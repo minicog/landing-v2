@@ -1,0 +1,1 @@
+# minicogai-landing-v2
